@@ -10,5 +10,6 @@ public class Main {
         System.out.println("hot-fix begin");
         System.out.println("master begin");
         System.out.println("hot-fix22222 begin");
+        System.out.println("push option first");
     }
 }
