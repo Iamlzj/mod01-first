@@ -11,5 +11,6 @@ public class Main {
         System.out.println("master begin");
         System.out.println("hot-fix22222 begin");
         System.out.println("push option first");
+        System.out.println("pull from gitHub");
     }
 }
